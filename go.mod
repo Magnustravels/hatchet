@@ -19,7 +19,6 @@ require (
 	github.com/labstack/echo/v4 v4.11.3
 	github.com/oapi-codegen/runtime v1.1.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/shopspring/decimal v1.3.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.16.0
 	github.com/steebchen/prisma-client-go v0.35.0
@@ -73,6 +72,7 @@ require (
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/perimeterx/marshmallow v1.1.5 // indirect
 	github.com/rogpeppe/go-internal v1.11.0 // indirect
+	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
@@ -118,11 +118,11 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stretchr/testify v1.8.4
 	github.com/subosito/gotenv v1.6.0 // indirect
-	golang.org/x/crypto v0.18.0
-	golang.org/x/net v0.20.0 // indirect
+	golang.org/x/crypto v0.21.0
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.16.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240116215550-a9fa1716bcac // indirect
 	google.golang.org/grpc v1.60.1
